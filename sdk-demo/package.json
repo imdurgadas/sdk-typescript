@@ -18,7 +18,7 @@
   "author": "durgadas",
   "license": "MIT",
   "devDependencies": {
-    "microbundle": "0.15.0"
+    "microbundle": "0.15.1"
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.1.0"
